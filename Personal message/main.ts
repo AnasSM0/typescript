@@ -1,3 +1,3 @@
-let name:string ="Eric";
+let Name:string ="Eric";
 
-console.log(`Hello ${name}, would you like to learn python today?`);
+console.log(`Hello ${Name}, would you like to learn python today?`);
