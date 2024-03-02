@@ -1,5 +1,6 @@
 let Places=["Italy","Switzerland","Paris","Makkah","Madina"];
 
+<<<<<<< HEAD
 console.log(Places); 
 
 console.log("\nPlaces in Alphabetical order: ");
@@ -23,3 +24,5 @@ console.log(Places.sort());
 
 console.log("\nSorted in Reverse Alphabetical Order:");
 console.log(Places.sort().reverse());
+
+

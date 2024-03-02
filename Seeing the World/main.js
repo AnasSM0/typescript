@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
     if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
         if (ar || !(i in from)) {
@@ -24,3 +25,7 @@ console.log("\nSorted in Alphabetical Order after new order:");
 console.log(Places.sort());
 console.log("\nSorted in Reverse Alphabetical Order:");
 console.log(Places.sort().reverse());
+=======
+var Places = ["Italy", "Switzerland", "Paris", "Makkah", "Madina"];
+console.log("I would love to visit ".concat(Places));
+>>>>>>> 9336cc928b2c6ec51b965a4bef37870986367f18
