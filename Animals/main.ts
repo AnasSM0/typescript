@@ -6,7 +6,7 @@ console.log(`${Animals[i]}`);
 
 }
 
-console.log('\n');
+console.log("\n");
 
 for(let i=0;i<Animals.length;i++){
 
